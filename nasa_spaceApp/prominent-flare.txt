@@ -1,0 +1,110 @@
+CLASS A: none
+
+CLASS B:
+  {
+    "time_tag": "2022-09-25T18:57:00Z",
+    "begin_time": "2022-09-25T18:57:00Z",
+    "begin_class": "B8.2",
+    "max_time": "2022-09-25T19:02:00Z",
+    "max_class": "C1.4",
+    "max_xrlong": 1.476485408602457e-06,
+    "max_ratio": 0.3084466386425245,
+    "max_ratio_time": "2022-09-25T19:00:33Z",
+    "current_int_xrlong": 0.0006612567231059074,
+    "end_time": "2022-09-25T19:06:00Z",
+    "end_class": "C1.0",
+    "satellite": 16
+  },
+  {
+    "time_tag": "2022-09-28T02:53:00Z",
+    "begin_time": "2022-09-28T02:53:00Z",
+    "begin_class": "B8.4",
+    "max_time": "2022-09-28T02:57:00Z",
+    "max_class": "C1.9",
+    "max_xrlong": 1.9480755781842163e-06,
+    "max_ratio": 0.11081134289945442,
+    "max_ratio_time": "2022-09-28T02:56:56Z",
+    "current_int_xrlong": 0.0006260217633098364,
+    "end_time": "2022-09-28T03:01:00Z",
+    "end_class": "B9.8",
+    "satellite": 16
+  },
+  {
+    "time_tag": "2022-09-28T23:40:00Z",
+    "begin_time": "2022-09-28T23:40:00Z",
+    "begin_class": "B9.6",
+    "max_time": "2022-09-28T23:45:00Z",
+    "max_class": "C1.6",
+    "max_xrlong": 1.678280113992514e-06,
+    "max_ratio": 0.07279538400230331,
+    "max_ratio_time": "2022-09-28T23:44:54Z",
+    "current_int_xrlong": 0.0007389065576717257,
+    "end_time": "2022-09-28T23:49:00Z",
+    "end_class": "C1.1",
+    "satellite": 16
+  },
+
+  CLASS C:
+  {
+    "time_tag": "2022-09-25T18:57:00Z",
+    "begin_time": "2022-09-25T18:57:00Z",
+    "begin_class": "B8.2",
+    "max_time": "2022-09-25T19:02:00Z",
+    "max_class": "C1.4",
+    "max_xrlong": 1.476485408602457e-06,
+    "max_ratio": 0.3084466386425245,
+    "max_ratio_time": "2022-09-25T19:00:33Z",
+    "current_int_xrlong": 0.0006612567231059074,
+    "end_time": "2022-09-25T19:06:00Z",
+    "end_class": "C1.0",
+    "satellite": 16
+  },
+    {
+    "time_tag": "2022-10-01T07:07:00Z",
+    "begin_time": "2022-10-01T07:07:00Z",
+    "begin_class": "C1.5",
+    "max_time": "2022-10-01T07:11:00Z",
+    "max_class": "C2.2",
+    "max_xrlong": 2.2388430807041004e-06,
+    "max_ratio": 0.055655095001278625,
+    "max_ratio_time": "2022-10-01T07:10:41Z",
+    "current_int_xrlong": 0.0014908678131178021,
+    "end_time": "2022-10-01T07:19:00Z",
+    "end_class": "C1.7",
+    "satellite": 16
+  },
+  {
+    "time_tag": "2022-10-02T17:53:00Z",
+    "begin_time": "2022-10-02T17:53:00Z",
+    "begin_class": "C2.8",
+    "max_time": "2022-10-02T18:07:00Z",
+    "max_class": "C7.8",
+    "max_xrlong": 7.889774678915273e-06,
+    "max_ratio": 0.13380900708079796,
+    "max_ratio_time": "2022-10-02T18:05:04Z",
+    "current_int_xrlong": 0.011570541188120842,
+    "end_time": "2022-10-02T18:26:00Z",
+    "end_class": "C5.0",
+    "satellite": 16
+  }
+
+  CLASS M:
+  {
+    "time_tag": "2022-09-30T03:46:00Z",
+    "begin_time": "2022-09-30T03:46:00Z",
+    "begin_class": "C2.1",
+    "max_time": "2022-09-30T04:01:00Z",
+    "max_class": "M1.0",
+    "max_xrlong": 1.0517920600250363e-05,
+    "max_ratio": 0.21325750031611412,
+    "max_ratio_time": "2022-09-30T03:56:47Z",
+    "current_int_xrlong": 0.006954634096473455,
+    "end_time": "2022-09-30T06:51:00Z",
+    "end_class": "C2.0",
+    "satellite": 16
+  },
+
+  CLASS X: none    
+
+
+  

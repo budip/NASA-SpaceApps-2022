@@ -1,0 +1,21 @@
+type        name    dtype       unit
+
+ephe        date    datetime    ns
+ephe        xrsa    float64     W/m2
+ephe        xrsa    float64     W/m2
+
+xrs-x1s     date    datetime    ns
+xrs-x1s     xrsa    float64     W/m2
+xrs-x1s     xrsa    float64     W/m2
+
+xrs-sum     date    datetime    ns
+xrs-sum     xrsa    float64     W/m2
+xrs-sum     xrsa    float64     W/m2
+
+xrs-loc     date    datetime    ns
+xrs-loc     xrsa    float64     W/m2
+xrs-loc     xrsa    float64     W/m2
+
+xrs-det     date    datetime    ns
+xrs-det     xrsa    float64     W/m2
+xrs-det     xrsa    float64     W/m2
